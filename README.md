@@ -9,6 +9,6 @@
 <img align="center" alt="LuanMarques-Linkedin" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain-wordmark.svg" style="max-width:100%;">
 </a>
 <a href=https://www.instagram.com/luan.marquess/ target="_blank">
-<img align="center" alt="LuanMarques-instagram" height="60" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="LuanMarques-instagram" height="60" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 
