@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Luan Marques
-- I`m brazilian and currently live here :parasol_on_ground:
+- I`m brazilian and currently living in Vila Velha-ES :parasol_on_ground:
 - I`ve been working on Autoglass as a IT intern 	:nerd_face:
 - In my life experience i could live in diffenrents countries. The time I spent traveling made me able to saw and learned how tecnology is important and can change the world :flight_departure::flight_arrival:
 
