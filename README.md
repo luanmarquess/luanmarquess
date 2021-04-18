@@ -31,4 +31,6 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/151/151081.svg?token=exp=1618780005~hmac=3a7f0217ae97acd0a6e2157eca93bfcf" alt="DataBase" width="40" height="40" style="max-width:100%;"></img>
 
 ## Extra Infos
+<a align="center">
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=midnight-purple)
+</a>
