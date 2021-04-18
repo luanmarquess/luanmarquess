@@ -29,7 +29,7 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/146/146807.svg?token=exp=1618779495~hmac=7a920969007dde0640713f64ca0a95e4" style="max-width:100%;" alt="Loading" width="50" height="70" style="max-width:100%;"></img>
 
 ## Learning
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="max-width:100%;"></img>
 
 ## Extra Infos
 ![Laun's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
