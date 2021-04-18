@@ -1,11 +1,10 @@
-- Hi, I’m @luanmarquess, i'm 23yo
-- I'm an eternal student of technology interested in learn how the world works!
-- I’m looking for get better every single day <br>
- <a href=https://www.linkedin.com/in/luan-marques-0154b313b/>Linkedin</a>
+### Hi there 👋
+## I'm Luan Marques
+- I`m brazilian and currently live here :parasol_on_ground:
+- I`ve been working on Autoglass as a IT intern 	:nerd_face:
+- In my life experience i could live in diffenrents countries. The time I spent traveling made me able to saw and learned how tecnology is important and can change the world :flight_departure::flight_arrival:
 
-
-
-<!---
-luanmarquess/luanmarquess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Reach me:
+<a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
+<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" style="max-width:100%;">
+</a>
