@@ -6,5 +6,5 @@
 
 ## Reach me:
 <a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
-<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" style="max-width:100%;">
+<img align="center" alt="luan-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" style="max-width:100%;">
 </a>
