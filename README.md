@@ -10,7 +10,7 @@
 </a>
 
 <a href=mailto:luanmarqueslmm@gmail.com/ target="_blank">
-<img align="center" alt="LuanMarques-Gmail" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/281/281752.svg?token=exp=1618778685~hmac=b80f377cbe95056dbdffd2b9db6356a4" style="max-width:100%;">
+<img align="center" alt="LuanMarques-Gmail" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/683/683206.svg?token=exp=1618778747~hmac=3c08d909e8039382fc78064c51755c28" style="max-width:100%;">
 </a>
 
 <a href=https://www.instagram.com/luan.marquess/ target="_blank">
