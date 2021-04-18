@@ -15,11 +15,11 @@
 </a>
 
 <a href=https://www.instagram.com/luan.marquess/ target="_blank">
-<img align="center" alt="LuanMarques-instagram" height="20" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="LuanMarques-instagram" height="24" width="34" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 
 <a href=https://steamcommunity.com/profiles/76561198097300718/ target="_blank">
-<img align="center" alt="LuanMarques-Steam" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111693.svg?token=exp=1618778950~hmac=c8e8d22875fda99c39b8e5fbe9d672c5" style="max-width:100%;">
+<img align="center" alt="LuanMarques-Steam" height="27" width="37" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111693.svg?token=exp=1618778950~hmac=c8e8d22875fda99c39b8e5fbe9d672c5" style="max-width:100%;">
 </a>
 
 ## My Skills
