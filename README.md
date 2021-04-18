@@ -23,7 +23,7 @@
 
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>=
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://www.flaticon.com/svg/vstatic/svg/146/146807.svg?token=exp=1618779495~hmac=7a920969007dde0640713f64ca0a95e4" style="max-width:100%;" alt="Loading" width="40" height="40" style="max-width:100%;"></img>
 
