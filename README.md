@@ -28,3 +28,4 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/146/146807.svg?token=exp=1618779495~hmac=7a920969007dde0640713f64ca0a95e4" style="max-width:100%;" alt="Loading" width="50" height="70" style="max-width:100%;"></img>
 
 ## Learning
+<img src="https://www.flaticon.com/svg/vstatic/svg/151/151081.svg?token=exp=1618780005~hmac=3a7f0217ae97acd0a6e2157eca93bfcf" alt="DataBase" width="40" height="40" style="max-width:100%;"></img>
