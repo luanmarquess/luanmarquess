@@ -32,4 +32,3 @@
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarquess&layout=compact)](https://github.com/luanmarquess/github-readme-stats)
