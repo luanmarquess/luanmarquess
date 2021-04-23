@@ -11,7 +11,7 @@
 </a>
 
 <a href=mailto:luanmarqueslmm@gmail.com/ target="_blank">
-<img align="center" alt="LuanMarques-Gmail" height="30" width="30" src="img/gmail.png" style="max-width:100%;">
+<img align="center" alt="LuanMarques-Gmail" height="35" width="35" src="img/gmail.png" style="max-width:100%;">
 </a>
 
 <a href=https://www.instagram.com/luan.marquess/ target="_blank">
