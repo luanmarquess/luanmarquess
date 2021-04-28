@@ -1,0 +1,75 @@
+/*menu*/
+/*ACRESCENTAR NO MENU OS LOGOS E AS REDES SOCIAIS AOU INVÉS DE "HOME CONTATO..."*/
+body{
+    font-family: 'Kanit', sans-serif;
+    
+}
+
+header{
+    background-image: linear-gradient(-67deg, #738276, #18121E );
+    padding: 20px 0 ;
+}
+
+.menu{
+    position: relative;
+    width: 85%;
+    margin: 0 100px;
+}
+.logoimg{
+    width: 100px; 
+    height: 200px;
+}
+
+.logoimg:hover{
+    transition: 1500ms;
+    transform: rotate3d(0, 1, 0, 360deg);
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    transition: 400ms;
+    color: #003366;
+    text-shadow: 1px 1px black;
+}
+
+
+/*main*/
+main{
+    height: 1600px;
+    background-image: linear-gradient(-90deg, #233237, #18121E );
+}
+p{
+    text-align: center;
+}
+
+/*footer*/
+footer{
+    height: 200px;
+    background:url(img/footer.jpg);  
+}
+
+.copyright{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-weight: lighter;
+    
+}
