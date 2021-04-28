@@ -7,19 +7,19 @@
 
 ## Reach me:
 <a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
-<img align="center" alt="LuanMarques-Linkedin" height="70" width="70" src="img/linkedin.png" style="max-width:100%;">
+<img align="center" alt="LuanMarques-Linkedin" height="30" width="30" src="img/linkedin.png" style="max-width:100%;">
 </a>
 
 <a href=mailto:luanmarqueslmm@gmail.com/ target="_blank">
-<img align="center" alt="LuanMarques-Gmail" height="30" width="40" src="img/gmail.png" style="max-width:100%;">
+<img align="center" alt="LuanMarques-Gmail" height="35" width="35" src="img/gmail.png" style="max-width:100%;">
 </a>
 
 <a href=https://www.instagram.com/luan.marquess/ target="_blank">
-<img align="center" alt="LuanMarques-instagram" height="24" width="34" src="img/instagram.png" style="max-width:100%;">
+<img align="center" alt="LuanMarques-instagram" height="30" width="30" src="img/instagram.png" style="max-width:100%;">
 </a>
 
 <a href=https://steamcommunity.com/profiles/76561198097300718/ target="_blank">
-<img align="center" alt="LuanMarques-Steam" height="27" width="37" src="img/steam.png" style="max-width:100%;">
+<img align="center" alt="LuanMarques-Steam" height="30" width="30" src="img/steam.png" style="max-width:100%;">
 </a>
 
 ## My Skills
