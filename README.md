@@ -29,7 +29,7 @@
 
 ## Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="max-width:100%;"></img>
-<img src="img/oracle.png" alt="Oracle" width="65" height="50"  style="max-width:100%;" ></img>
+<img src="img/oracle.png" alt="Oracle" width="55" height="45"  style="max-width:100%;" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="33" height="33" style="max-width:100%;"></img>
