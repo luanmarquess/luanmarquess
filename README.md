@@ -6,33 +6,48 @@
 - In my journey so far I lived in different countries. The time I spent traveling made me able to see and learn how tecnology is important and can change the world.  :flight_departure::flight_arrival:
 
 ## Reach me:
+<!--Linkedin-->
 <a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
-<img align="center" alt="LuanMarques-Linkedin" height="30" width="30" src="img/linkedin.png" style="max-width:100%;">
+  <img alt="LuanMarques-Linkedin" src="https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
-
+<!--Gmail-->
 <a href=mailto:luanmarqueslmm@gmail.com/ target="_blank">
-<img align="center" alt="LuanMarques-Gmail" height="35" width="35" src="img/gmail.png" style="max-width:100%;">
+<img alt="LuanMarques-Gmail" src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=000000">
 </a>
-
+<!--Instagram-->
 <a href=https://www.instagram.com/luan.marquess/ target="_blank">
-<img align="center" alt="LuanMarques-instagram" height="30" width="30" src="img/instagram.png" style="max-width:100%;">
+<img alt="LuanMarques-Instagram" src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=000000">
 </a>
-
+<!--Steam-->
 <a href=https://steamcommunity.com/profiles/76561198097300718/ target="_blank">
-<img align="center" alt="LuanMarques-Steam" height="30" width="30" src="img/steam.png" style="max-width:100%;">
+<img alt="LuanMarques-Steam" src="https://img.shields.io/badge/Steam-20232A?style=for-the-badge&logo=steam&logoColor=000000">
 </a>
 
 ## My Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;" alt="JavaScript" width="33" height="33" style="max-width:100%;"></img>
+<!--HTML5-->
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5">
+   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=FF4500"/>
+</a>
+<!--CSS3-->
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference">
+   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1E90FF"/>
+</a>
+<!--JavaScript-->
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+   <img alt="JavaScript" src="https://img.shields.io/badge/Java Script-20232A?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
+</a>
 
 ## Learning
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="max-width:100%;"></img>
-<img src="img/oracle.png" alt="Oracle" width="55" height="45"  style="max-width:100%;" ></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="33" height="33" style="max-width:100%;"></img>
+<!--MySQL-->
+<a href="https://www.mysql.com/">
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4169E1"/>
+</a>
+<!--Oracle-->
+<a href="https://www.oracle.com/br/index.html">
+   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
+</a>
+
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarquess&layout=compact?&theme=dark)
