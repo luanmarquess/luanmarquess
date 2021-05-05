@@ -7,19 +7,19 @@
 
 ## Reach me:
 <!--Linkedin-->
-<a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
+<a href=https://www.linkedin.com/in/luan-marques-0154b313b target="_blank">
   <img alt="LuanMarques-Linkedin" src="https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 <!--Gmail-->
-<a href=mailto:luanmarqueslmm@gmail.com/ target="_blank">
+<a href=mailto:luanmarqueslmm@gmail.com target="_blank">
 <img alt="LuanMarques-Gmail" src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=000000">
 </a>
 <!--Instagram-->
-<a href=https://www.instagram.com/luan.marquess/ target="_blank">
+<a href=https://www.instagram.com/luan.marquess target="_blank">
 <img alt="LuanMarques-Instagram" src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=000000">
 </a>
 <!--Steam-->
-<a href=https://steamcommunity.com/profiles/76561198097300718/ target="_blank">
+<a href=https://steamcommunity.com/profiles/76561198097300718 target="_blank">
 <img alt="LuanMarques-Steam" src="https://img.shields.io/badge/Steam-20232A?style=for-the-badge&logo=steam&logoColor=000000">
 </a>
 
