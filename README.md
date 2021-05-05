@@ -7,7 +7,7 @@
 
 ## Reach me:
 <!--Linkedin-->
-<a href=https://www.linkedin.com/in/luan-marques-0154b313b target="_blank">
+<a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
   <img alt="LuanMarques-Linkedin" src="https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 <!--Gmail-->
@@ -15,7 +15,7 @@
 <img alt="LuanMarques-Gmail" src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=000000">
 </a>
 <!--Instagram-->
-<a href=https://www.instagram.com/luan.marquess target="_blank">
+<a href=https://www.linkedin.com/in/luan-marques-0154b313b/ target="_blank">
 <img alt="LuanMarques-Instagram" src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=000000">
 </a>
 <!--Steam-->
@@ -25,25 +25,25 @@
 
 ## My Skills
 <!--HTML5-->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5" target="_blank">
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=FF4500"/>
 </a>
 <!--CSS3-->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference" target="_blank">
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1E90FF"/>
 </a>
 <!--JavaScript-->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
    <img alt="JavaScript" src="https://img.shields.io/badge/Java Script-20232A?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
 </a>
 
 ## Learning
 <!--MySQL-->
-<a href="https://www.mysql.com/">
+<a href="https://www.mysql.com/" target="_blank">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4169E1"/>
 </a>
 <!--Oracle-->
-<a href="https://www.oracle.com/br/index.html">
+<a href="https://www.oracle.com/br/index.html" target="_blank">
    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
 </a>
 
