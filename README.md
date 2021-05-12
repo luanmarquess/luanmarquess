@@ -36,10 +36,6 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
    <img alt="JavaScript" src="https://img.shields.io/badge/Java Script-20232A?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
 </a>
-<!--Scrum-->
-<a href="https://www.scrumalliance.org/" target="_blank">
-   <img alt="Scrum" src="https://img.shields.io/badge/Scrum-20232A?style=for-the-badge&logo=scrumalliance&logoColor=000000"/>
-</a>
 
 ## Learning
 <!--MySQL-->
