@@ -36,6 +36,14 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
    <img alt="JavaScript" src="https://img.shields.io/badge/Java Script-20232A?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
 </a>
+<!-- SCRUM -->
+<a href="https://www.scrum.org/">
+  <img src="https://img.shields.io/badge/Scrum-20232A?style=for-the-badge&logo=clockify&logoColor=3A7C9A"/>
+</a>
+<!-- KANBAN -->
+<a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
+  <img src="https://img.shields.io/badge/Kanban-20232A?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
+</a>
 
 ## Learning
 <!--MySQL-->
