@@ -56,7 +56,7 @@
 </a>
 <!--Less-->
 <a href="https://lesscss.org/" target="_blank">
-   <img alt="Less" src="https://img.shields.io/badge/Less-20232A?style=for-the-badge&logo=less&logoColor=000000"/>
+   <img alt="Less" src="https://img.shields.io/badge/Less-20232A?style=for-the-badge&logo=less&logoColor=ffffff"/>
 </a>
 
 
