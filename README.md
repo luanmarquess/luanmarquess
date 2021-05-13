@@ -54,6 +54,10 @@
 <a href="https://www.oracle.com/br/index.html" target="_blank">
    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
 </a>
+<!--Less-->
+<a href="https://lesscss.org/" target="_blank">
+   <img alt="Less" src="https://img.shields.io/badge/Less-20232A?style=for-the-badge&logo=less&logoColor=000000"/>
+</a>
 
 
 ## Extra Infos
