@@ -44,6 +44,14 @@
 <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
   <img src="https://img.shields.io/badge/Kanban-20232A?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
 </a>
+<!--Less-->
+<a href="https://lesscss.org/" target="_blank">
+   <img alt="Less" src="https://img.shields.io/badge/Less-20232A?style=for-the-badge&logo=less&logoColor=ffffff"/>
+</a>
+<!--Markdown-->
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">
+   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=000000"/>
+</a>
 
 ## Learning
 <!--MySQL-->
@@ -54,11 +62,6 @@
 <a href="https://www.oracle.com/br/index.html" target="_blank">
    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
 </a>
-<!--Less-->
-<a href="https://lesscss.org/" target="_blank">
-   <img alt="Less" src="https://img.shields.io/badge/Less-20232A?style=for-the-badge&logo=less&logoColor=ffffff"/>
-</a>
-
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
