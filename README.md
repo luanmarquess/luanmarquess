@@ -23,7 +23,7 @@
 <img alt="LuanMarques-Steam" src="https://img.shields.io/badge/Steam-20232A?style=for-the-badge&logo=steam&logoColor=000000">
 </a>
 
-## My Skills
+## My Skills / Learning
 <!--HTML5-->
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5" target="_blank">
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=FF4500"/>
@@ -52,8 +52,6 @@
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=000000"/>
 </a>
-
-## Learning
 <!--MySQL-->
 <a href="https://www.mysql.com/" target="_blank">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4169E1"/>
@@ -62,6 +60,7 @@
 <a href="https://www.oracle.com/br/index.html" target="_blank">
    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
 </a>
+
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
