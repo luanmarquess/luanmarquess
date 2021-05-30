@@ -56,10 +56,6 @@
 <a href="https://www.mysql.com/" target="_blank">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4169E1"/>
 </a>
-<!--Oracle-->
-<a href="https://www.oracle.com/br/index.html" target="_blank">
-   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
-</a>
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
