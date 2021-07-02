@@ -56,6 +56,10 @@
 <a href="https://www.mysql.com/" target="_blank">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4169E1"/>
 </a>
+<!--CSharp-->
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+   <img alt="CSharp" src="https://img.shields.io/badge/CSharp-20232A?style=for-the-badge&logo=csharp&logoColor=964d91"/>
+</a>
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
