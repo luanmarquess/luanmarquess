@@ -60,6 +60,11 @@
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-20232A?style=for-the-badge&logo=csharp&logoColor=964d91"/>
 </a>
+</a>
+<!--Delphi-->
+<a href=http://docwiki.embarcadero.com/Libraries/Sydney/en/Main_Page target="_blank">
+   <img alt="Delphi" src="https://img.shields.io/badge/Delphi-20232A?style=for-the-badge&logo=delphi&logoColor=ba070d"/>
+</a>
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
