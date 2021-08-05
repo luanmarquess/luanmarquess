@@ -52,9 +52,9 @@
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=000000"/>
 </a>
-<!--MySQL-->
-<a href="https://www.mysql.com/" target="_blank">
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4169E1"/>
+<!--PL/SQL-->
+<a href="https://docs.oracle.com/database/121/LNPLS/toc.htm" target="_blank">
+   <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-20232A?style=for-the-badge&logo=oracle&logoColor=FF4500"/>
 </a>
 <!--CSharp-->
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
