@@ -60,10 +60,6 @@
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-20232A?style=for-the-badge&logo=csharp&logoColor=964d91"/>
 </a>
-<!--MarkDown-->
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">
-   <img alt="MarkDown" src="https://img.shields.io/badge/MarkDown-20232A?style=for-the-badge&logo=markdown&logoColor=ffffff"/>
-</a>
 
 ## Extra Infos
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarquess&show_icons=true&theme=dark)
