@@ -69,6 +69,10 @@
 <a href=https://www.typescriptlang.org/docs target="_blank">
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=1E90FF"/>
 </a>
+<!--Angular-->
+<a href=https://angular.io/docs target="_blank">
+   <img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=c3002f"/>
+</a>
 
 
 ## Extra Infos
